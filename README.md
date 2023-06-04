@@ -5,9 +5,16 @@
 # 💻 Tech Stack:
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C"/>
+  
+  
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
 </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
+</a>
+  
+  
   
   
   
